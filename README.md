@@ -31,7 +31,10 @@ This project implements a real-time hand gesture recognition system using MediaP
 ## Usage
 - Run the main script: `python main.py`
 - Ensure your webcam is connected and visible to the application.
-- Perform various hand gestures as specified to trigger different sounds.  
+- Perform various hand gestures as specified to trigger different sounds.
+
+## Issues
+- videocapture(1) is used instead of 0 because using 1 helps to fix the program and run in macOs but 0 is used for windows.
 
 ## License
 This project is licensed under the `MIT License`.
