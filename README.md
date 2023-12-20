@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/sumit-jr/Hand-Gesture-Music-Player/assets/103712713/2eb7e70b-6562-4032-a9b1-8b680327cc40" alt="Hand Gesture Music Player">
+<img src="https://github.com/sumit-jr/Hand-Gesture-Music-Player/assets/81641001/59a37830-73e8-48ff-ba09-4b503ff2b256" alt="Hand Gesture Music Player">
 </p>
 
 # Hand Gesture Music Player
@@ -37,7 +37,7 @@ This project implements a real-time hand gesture recognition system using MediaP
 This project is licensed under the `MIT License`.
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/sumit-prasad-sah/)
+<a href="https://twitter.com/SumitSah_jr" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a> <a href="https://www.linkedin.com/in/sumit-prasad-sah/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a> <a href="mailto:er.sahsumit@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 
 ## Acknowledgements
 - [MediaPipe](https://google.github.io/mediapipe/)
